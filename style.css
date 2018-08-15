@@ -1,0 +1,22 @@
+h1{
+	color:blue;
+	font-size:12px;
+}
+body{
+	background-color: lavender;
+}
+p{
+	color:purple;
+	margin-top:10px
+}
+table{
+	border:5px solid blue;
+}
+.testClass{
+	width:75px;
+	height:25px;
+	color:#222222;
+	margin:10px;
+	background-color:white;
+	display: inline-block;
+}
